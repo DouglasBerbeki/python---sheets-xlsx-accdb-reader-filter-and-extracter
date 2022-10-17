@@ -1,5 +1,3 @@
-# python---sheets-xlsx-accdb-reader-filter-and-extracterA system for reading big data from xlsx (excel) and accdb (access) from a folder, then filter it by columns (using 8 differents conditions from text and values), then export as xlsx separated by 1.000.000 lines.
-
 1) Configure filters:
 	You can add how much filter you want, one by one.
 	Type of filter:
